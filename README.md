@@ -1,2 +1,3 @@
 # DSA_PYTHON
-DSA_using_Python
+this is project where u can have the real time implementation of DSA Topics 
+like arrays , linked list , Trees etc
